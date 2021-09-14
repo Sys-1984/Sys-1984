@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Sys-1984
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Sys-1984/Sys-1984 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ Hi, I’m @Sys-1984
+ I do not understand a single word on this website or what to do on it but I'm here anyway.
+ About me: I like keyboards, I could not make a Geekhack account sadly.
+ I have absolutly no idea how to code or how to work on this website, but that does not indicate that I will fall for scams\triangle schemes, if they exist. 
+ I can feel the people reading this if there are any shakng their head at me
